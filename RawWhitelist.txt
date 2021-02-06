@@ -1013,6 +1013,10 @@ feedly.com
 
 # Added by me
 resources.crowdtwist.com
+cdn.socialannex.com
+sb.scorecardresearch.com
+certify.alexametrics.com
+
 
 # Adult Swim Videos on Amazon Firestick
 pmd.cdn.turner.com
