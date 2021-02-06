@@ -1011,7 +1011,8 @@ zoom.us
 best.aliexpress.com
 feedly.com
 
-
+# Added by me
+resources.crowdtwist.com
 
 # Adult Swim Videos on Amazon Firestick
 pmd.cdn.turner.com
