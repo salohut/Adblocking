@@ -1011,11 +1011,16 @@ zoom.us
 best.aliexpress.com
 feedly.com
 
+
+
 # Added by me
 resources.crowdtwist.com
+stats.g.doubleclick.net
 cdn.socialannex.com
 sb.scorecardresearch.com
 certify.alexametrics.com
+
+
 
 
 # Adult Swim Videos on Amazon Firestick
