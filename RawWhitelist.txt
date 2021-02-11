@@ -1014,6 +1014,7 @@ feedly.com
 
 
 # Added by me
+cdn.crowdtwist.com
 resources.crowdtwist.com
 stats.g.doubleclick.net
 cdn.socialannex.com
