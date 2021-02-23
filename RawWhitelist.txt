@@ -1020,6 +1020,7 @@ stats.g.doubleclick.net
 cdn.socialannex.com
 sb.scorecardresearch.com
 certify.alexametrics.com
+www.googleadservices.com
 
 
 
